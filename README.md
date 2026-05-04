@@ -11,7 +11,7 @@ The analysis is based on three datasets:
 
 ## Project Objectives
 
-### ✔ 1. Data Cleaning & Preprocessing
+### 1. Data Cleaning & Preprocessing
 - Standardized column names  
 - Fixed missing or invalid values  
 - Transformed NAV wide-format → long-format  
